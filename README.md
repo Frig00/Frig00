@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frig00
 - 👀 Interested in Software and Electronic Engineering 
-- 🎓 Attending master degree in Computer Science and Multimedia at University of Pavia 
+- 🎓 Currentlyk attending master degree in Computer Science and Multimedia at University of Pavia 
 - 👨‍💻 Mainly working with Python, Node.js, React and Vite
 - 📫 Reach me at andrea.frigatti00@gmail.com
